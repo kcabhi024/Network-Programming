@@ -5,7 +5,6 @@ import javax.net.ssl.*;
 import java.security.cert.Certificate;
 import java.io.*;
 
-
 public class SecurityPermission {
 
     public static void main(String[] args) {

@@ -3,7 +3,8 @@ package ABHISHEKKC_LAB_4;
 import java.net.*;
 import java.io.*;
 
-public class URLInfo {
+public class
+URLInfo {
 
     public static void main(String[] args) {
 
