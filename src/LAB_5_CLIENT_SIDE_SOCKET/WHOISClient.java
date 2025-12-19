@@ -1,4 +1,4 @@
-package LAB_5;
+package LAB_5_CLIENT_SIDE_SOCKET;
 
 import javax.swing.*;
 import java.awt.*;

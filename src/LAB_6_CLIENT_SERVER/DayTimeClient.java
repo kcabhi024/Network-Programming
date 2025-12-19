@@ -1,4 +1,4 @@
-package LAB_6;
+package LAB_6_CLIENT_SERVER;
 
 import java.net.Socket;
 import java.io.BufferedReader;
