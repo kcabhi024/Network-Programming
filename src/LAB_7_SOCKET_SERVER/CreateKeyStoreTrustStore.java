@@ -5,7 +5,7 @@ public class CreateKeyStoreTrustStore {
 
     // to create a server.keyStore
     // 1. in cmd , run code out of Src file
-    // - keytool -genkeypair -alias serverkey -keyalg RSA -keysize 2048 -keystore server.keystore -validity 365
+    //  keytool -genkeypair -alias serverkey -keyalg RSA -keysize 2048 -keystore server.keystore -validity 365
     // - verify keystore - keytool -list -keystore server.keystore
 
 
